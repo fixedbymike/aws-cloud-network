@@ -1,0 +1,1 @@
+Building toward Cloud Network Engineering and Platform Support, with strengths in incident triage, network troubleshooting, VPNs, routing, documentation, and regulated environments. Building AWS, Linux, Terraform, and network automation projects with weekly public releases.
