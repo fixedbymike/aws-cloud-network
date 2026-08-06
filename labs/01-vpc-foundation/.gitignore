@@ -1,0 +1,3 @@
+.state.env
+*.log
+validation-output.txt
